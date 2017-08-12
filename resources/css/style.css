@@ -1,11 +1,11 @@
 * {
   font-family: Helvetica;
   text-align: center;
+  font-weight: bold;
 }
 
 h1 {
   font-size: 70px;
-  font-weight: bold;
   color: white;
 }
 
@@ -16,4 +16,17 @@ h1 {
 
 .background-img {
   background-image: url("../images/the-flatiron-building.png");
+}
+
+#secondheader {
+  font-size: 32px;
+}
+
+.thirdheader {
+  font-size: 23;
+}
+
+.paragraphs {
+  font-size: 14px;
+  font-weight: normal;
 }
