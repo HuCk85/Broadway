@@ -6,16 +6,17 @@
 
 h1 {
   font-size: 70px;
-  color: white;
 }
 
-.links {
+
+#links {
   color: white;
   font-size: 18px;
 }
 
-.background-img {
+.headimage {
   background-image: url("../images/the-flatiron-building.png");
+  color: white;
 }
 
 #secondheader {
@@ -29,4 +30,16 @@ h1 {
 .paragraphs {
   font-size: 14px;
   font-weight: normal;
+}
+
+#midheader {
+  font-size: 23px;
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+.pagefot {
+  color: white;
+  font-size: 11px;
+  background-color: dimgray;
+  text-align: left;
 }
